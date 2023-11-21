@@ -17,6 +17,6 @@
 
 ### Side Project
 
-- 여우별
+- [여우별](https://github.com/3rr0r404N07F0UND/starFox.git)
 - [JsonParser](https://github.com/3rr0r404N07F0UND/JsonParser.git)
 - [csvToJson](https://github.com/3rr0r404N07F0UND/csvToJson.git)
