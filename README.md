@@ -59,6 +59,7 @@
 - [HexMagic](https://github.com/3rr0r404N07F0UND/HexMagic.git)
 - [velog](https://github.com/3rr0r404N07F0UND/velog.git)
 - [ddon_kiosk](https://github.com/3rr0r404N07F0UND/ddon_kiosk.git)
+- [pacman]()
 - [rabbitfy](https://github.com/3rr0r404N07F0UND/rabbitfy.git)
 - airkorea
 - [memo](https://github.com/3rr0r404N07F0UND/memo.git)
