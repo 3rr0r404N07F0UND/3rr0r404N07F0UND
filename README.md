@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm SIA</h1>
 
-<div align="center"><img href="dev-jeans.png" /></div>
+<div align="center"><img src="dev-jeans.png" /></div>
 
 ## Tech Stack
 
