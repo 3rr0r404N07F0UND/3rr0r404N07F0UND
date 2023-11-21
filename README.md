@@ -2,8 +2,6 @@
 
 ## Tech Stack
 
-![.ENV](https://img.shields.io/badge/dotenv-ECD53F.svg?&style=for-the-badge&logo=.ENV)
-
 ## Project List
 
 ### Main Project
