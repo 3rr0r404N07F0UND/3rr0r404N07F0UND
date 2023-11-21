@@ -1,4 +1,4 @@
-# Hi I'm SIA
+<h1 align="center">Hi I'm SIA</h1>
 
 ## Tech Stack
 
