@@ -1,9 +1,13 @@
 <h1 align="center">Hi I'm SIA</h1>
 
+![main-img]()
+
 ## Tech Stack
 
+<div align="center">
 ![Static Badge](https://img.shields.io/badge/-.ENV-yellow?logo=dotenv&labelColor=gray)
 ![Static Badge](https://img.shields.io/badge/-Node-green?logo=nodedotjs&labelColor=white)
+</div>
 
 ## Project List
 
