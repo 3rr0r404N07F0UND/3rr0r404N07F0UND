@@ -2,6 +2,9 @@
 
 ## Tech Stack
 
+![Static Badge](https://img.shields.io/badge/-.ENV-yellow?logo=dotenv&labelColor=gray)
+![Static Badge](https://img.shields.io/badge/-Node-green?logo=nodedotjs&labelColor=white)
+
 ## Project List
 
 ### Main Project
