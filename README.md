@@ -2,7 +2,7 @@
 
 ## Tech Stack
 
-<div align="center">![.ENV](https://img.shields.io/badge/dotenv-ECD53F.svg?&style=for-the-badge&logo=dotenv&logoColor=ECD53F)</div>
+![.ENV](https://img.shields.io/badge/dotenv-ECD53F.svg?&style=for-the-badge&logo=dotenv&logoColor=ECD53F)
 
 ## Project List
 
