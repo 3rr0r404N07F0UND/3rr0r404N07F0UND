@@ -10,7 +10,7 @@
 - [ddon_kiosk](https://github.com/3rr0r404N07F0UND/ddon_kiosk.git)
 - [rabbitfy](https://github.com/3rr0r404N07F0UND/rabbitfy.git)
 - airkorea
-- memo
+- [memo](https://github.com/3rr0r404N07F0UND/memo.git)
 - kold
 - Relog
 - [damhwa](https://github.com/3rr0r404N07F0UND/damhwa.git)
