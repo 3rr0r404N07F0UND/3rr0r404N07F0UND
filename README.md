@@ -25,7 +25,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=61DAFB&labelColor=gray">
   <img alt="React-Router" src="https://img.shields.io/badge/-React--Router-CA4245?logo=reactrouter&logoColor=CA4245&labelColor=gray">
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=764ABC&labelColor=gray">
-  <img alt="Python" src="https://img.shields.io/badge/-python-3776AB?logo=python&labelColor=gray">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&labelColor=gray">
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=000000&labelColor=gray">
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=092E20&labelColor=gray">
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=009688&labelColor=gray">
