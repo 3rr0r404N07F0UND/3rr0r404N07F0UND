@@ -47,6 +47,8 @@
   <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=412991&labelColor=gray">
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=0052CC&labelColor=gray">
   <img alt="Atlassian" src="https://img.shields.io/badge/-Atlassian-0052CC?logo=atlassian&logoColor=0052CC&labelColor=gray">
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=009639&labelColor=gray">
+  <img alt="Apache2" src="https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=D22128&labelColor=gray">
 </div>
 
 ## Project List
