@@ -61,7 +61,7 @@
 - [ddon_kiosk](https://github.com/3rr0r404N07F0UND/ddon_kiosk.git) - 돈돈정 키오스크 - 팀프로젝트
 - [pacman](https://github.com/3rr0r404N07F0UND/PacMan.git) - 캔버스 팩맨 게임
 - [rabbitfy](https://github.com/3rr0r404N07F0UND/rabbitfy.git) - 음악 플레이어
-- airkorea - 공기질 모니터링
+- [airkorea](https://github.com/3rr0r404N07F0UND/air_korea.git) - 공기질 모니터링
 - [memo](https://github.com/3rr0r404N07F0UND/memo.git) - 메모장 SPA
 - kold - 날씨 모니터링
 - Relog - 블로그
