@@ -72,3 +72,4 @@
 - [여우별](https://github.com/3rr0r404N07F0UND/starFox.git) - discord chat bot - 소스코드 비공개
 - [JsonParser](https://github.com/3rr0r404N07F0UND/JsonParser.git) - json 접근 방식들
 - [csvToJson](https://github.com/3rr0r404N07F0UND/csvToJson.git) - csv 파일을 json으로
+- [todo_c](https://github.com/3rr0r404N07F0UND/todo_c.git) - todo list를 C언어로 mysql을 연동해서!
